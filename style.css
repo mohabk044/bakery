@@ -1,0 +1,87 @@
+body {
+    margin: 0% 0%;
+}
+
+.kk {
+    background-image: url(img/drew-coffman-1872.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding-left: 15px;
+    margin-top: 0px;
+
+}
+
+h1 {
+    display: inline-block;
+    margin-top: 0px;
+    margin-right: 550px;
+    margin-left: 200px;
+
+}
+
+.paragraph {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.paragraph p {
+    color: white;
+}
+
+.one {
+    font-size: 30px;
+    margin: 20px;
+}
+
+.two {
+    font-size: 70px;
+    margin: 20px;
+}
+
+.three {
+    font-size: 30px;
+    margin: 20px;
+}
+
+.cards {
+    display: inline-block;
+    background-color: white;
+}
+
+
+.content {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    width: fit-content;
+    box-shadow: 0 5px 25px rgba(255, 255, 255, 0.15);
+    border-radius: 10px;
+    padding: 25px;
+    margin-right: 52px;
+}
+
+
+
+
+.info {
+    text-align: left;
+    font-size: 20px;
+    color: #343434;
+
+}
